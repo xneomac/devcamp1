@@ -56,8 +56,8 @@ Les jeux de données sont les suivants :
 
 - [AOP Fromage Cantal](https://www.data.gouv.fr/fr/datasets/aire-geographique-dune-appelation-dorigine-protegee-de-type-fromage-dans-le-cantal-1/)
 - [Impôt de solidarité sur la fortune](https://www.data.gouv.fr/fr/datasets/impot-de-solidarite-sur-la-fortune/)
-- [Lieu de tournage Paris](https://www.data.gouv.fr/fr/datasets/lieux-de-tournage-de-films-long-metrage-prs/)
-- [Jeux olypique de Rio 2016](https://www.data.gouv.fr/fr/datasets/epreuves-sportives-des-jeux-olympiques-2016-de-rio/#_)
-- [Site de fouille archéologiques](https://www.data.gouv.fr/fr/datasets/localisation-des-sites-de-fouille-archeologiques-de-l-inrap-idf/)
+- [Lieux de tournage de films (long métrage)](https://www.data.gouv.fr/fr/datasets/lieux-de-tournage-de-films-long-metrage-prs/)
+- [Epreuves sportives des Jeux Olympiques 2016 de Rio](https://www.data.gouv.fr/fr/datasets/epreuves-sportives-des-jeux-olympiques-2016-de-rio/#_)
+- [Localisation des sites de fouille archéologiques de l'Inrap](https://www.data.gouv.fr/fr/datasets/localisation-des-sites-de-fouille-archeologiques-de-l-inrap-idf/)
 
 Les jeux de données se trouvent dans le dossier *dataset*, mais vous pouvez cliquer sur les liens ci-dessus pour les récupérer directement sur data.gouv.fr.
