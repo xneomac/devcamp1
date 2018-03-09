@@ -11,7 +11,7 @@ Les objectifs du devcamp sont de **développer** quelque chose pour le fun et de
 
 Ce document regroupe l'ensemble des informations utiles pour participer au Devcamp.
 
-## Planning
+### Planning
 
 17h
 : Accueil des participants
@@ -45,7 +45,7 @@ Nous afficherons à ce moment le document `DEBRIEFING.md`.
 ### Canal de communication
 
 Un slack dédié à l'évènement a été créé, normalement, chaque participant a été invité à le rejoindre.
-Voici l'adresse du slack [lebivouac-devcamp.slack.com](lebivouac-devcamp.slack.com).
+Voici l'adresse du slack [lebivouac-devcamp.slack.com](http://lebivouac-devcamp.slack.com).
 Ce *channel* est pour permettre à chacun de discuter avec tous les autres participants ainsi que les organisateurs.
 
 ### Jeux de données
