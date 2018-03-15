@@ -5,7 +5,9 @@
 Le Devcamp est un évènement organisé par [Le Bivouac](http://lebivouac.com) et [Clermont'ech](http://clermontech.org) sur une idée originale d'[Easymov Robotics](http://easymov.fr).
 Cet évènement réunit un petit groupe de développeurs et leur mission est de créer une application, seul ou à plusieurs, en un court laps de temps.
 
-Les objectifs du devcamp sont de **développer** quelque chose pour le fun et de **partager** des outils, des astuces et des bonnes pratiques entre développeurs.
+Les objectifs généraux du Devcamp sont de **développer** quelque chose pour le fun et de **partager** des outils, des astuces et des bonnes pratiques entre développeurs.
+
+La première édition du Devcamp a pour thème l'Open Data et [data.gouv.fr](http://data.gouv.fr).
 
 ## Manifeste
 
@@ -42,11 +44,18 @@ Pour cela il suffit de faire une *pull request* contenant le projet sur ce dép�
 Il est également possible de présenter sa réalisation ou sa *toolchain* devant les autres participants à l'occasion du debriefing.
 Nous afficherons à ce moment le document `DEBRIEFING.md`.
 
+### Matériel à prévoir
+
+Pour participer à l'évènement il faut se munir d'un **PC portable** et éventuellement un **câble ethernet**.
+Nous n'aurons pas de PC à prêter aux participants pour l'évènement.
+
 ### Canal de communication
 
 Un slack dédié à l'évènement a été créé, normalement, chaque participant a été invité à le rejoindre.
 Voici l'adresse du slack [lebivouac-devcamp.slack.com](http://lebivouac-devcamp.slack.com).
 Ce canal est pour permettre à chacun de discuter avec tous les autres participants ainsi que les organisateurs.
+
+Si vous avez une question en amont de l'évènement nous vous invitons à vous inscrire au slack pour y poser vos questions.
 
 ### Jeux de données
 
@@ -60,4 +69,4 @@ Les jeux de données sont les suivants :
 - [Epreuves sportives des Jeux Olympiques 2016 de Rio](https://www.data.gouv.fr/fr/datasets/epreuves-sportives-des-jeux-olympiques-2016-de-rio/#_)
 - [Localisation des sites de fouille archéologiques de l'Inrap](https://www.data.gouv.fr/fr/datasets/localisation-des-sites-de-fouille-archeologiques-de-l-inrap-idf/)
 
-Les jeux de données se trouvent dans le dossier *dataset*, mais vous pouvez cliquer sur les liens ci-dessus pour les récupérer directement sur data.gouv.fr.
+Les jeux de données se trouvent dans le dossier *dataset*, mais vous pouvez cliquer sur les liens ci-dessus pour les récupérer directement sur [data.gouv.fr](http://data.gouv.fr).
