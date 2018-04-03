@@ -1,7 +1,7 @@
 {
-  "name": "App",
-  "short_name": "App",
-  "description": "Another app made with Vue.js",
+  "name": "Paris Movie",
+  "short_name": "Paris Movie",
+  "description": "A simple app for a simple task",
   "icons": [
     {
       "src": "launcher-icon-0-75x.png",
