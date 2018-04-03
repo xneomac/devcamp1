@@ -1,15 +1,15 @@
 # Debriefing
 
-> Explique en quelques mots à quoi sert ton application.
+Liste des lieux de tournage et lien vers StreetView.
 
 ## Application
 
-> Ajouter ici un screenshot, une vidéo ou un lien vers ton application.
+[https://xneomac.gitlab.io/parismovie/](https://xneomac.gitlab.io/parismovie/)
 
 ## Outils
 
-> Liste ici les outils que tu a utilisé.
-> Tu peux aussi dire rapidement a quoi ils servent et pourquoi tu les utilisent
-
-> - React (Framework JS)
-> - ...
+- React (Framework JS)
+- Gitlab pages (Hebergement)
+- Google Street View
+- Webpack
+- Bulma.io (framework CSS)
