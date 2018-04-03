@@ -1,0 +1,15 @@
+image: node:6.11
+
+pages:
+  stage: deploy
+  script:
+    - npm install
+    - npm run build
+    - mv static public
+    - mv dist/assets public/assets
+    - ls public
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
