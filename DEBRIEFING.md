@@ -8,7 +8,7 @@ Liste des lieux de tournage et lien vers StreetView.
 
 La réutilisation à été publiée sur [data.gouv.fr](https://www.data.gouv.fr/fr/reuses/paris-movie/).
 
-<video src="demo.mp4" width="320" height="200" controls preload></video>
+![screenshot](screen1.png)
 
 ## Outils
 
